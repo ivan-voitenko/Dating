@@ -3,14 +3,10 @@
 505	946	7396705174496360	CMakeFiles/CourseWork.dir/User.cpp.obj	3f8f6a675d6d5115
 8	127	7397615939212538	CourseWork_autogen/mocs_compilation.cpp	c9352f01eb101a74
 520	593	7396705170972779	CMakeFiles/CourseWork.dir/TypeRelationship.cpp.obj	ba63fb3602fb28dc
-8	127	7397615939212538	C:/Users/Ivan/Downloads/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CourseWork_autogen/timestamp	c9352f01eb101a74
-8	127	7397615939212538	C:/Users/Ivan/Downloads/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CourseWork_autogen/mocs_compilation.cpp	c9352f01eb101a74
-144	2250	7397615960358096	CMakeFiles/CourseWork.dir/Settings.cpp.obj	36e6d9f24c28c6ce
-395	446	7396705169512614	C:/Users/Ivan/Downloads/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CourseWork_autogen/EWIEGA46WW/qrc_settings_icon.cpp	c16fc93a8dc99b13
-395	446	7396705169512614	CourseWork_autogen/EWIEGA46WW/qrc_settings_icon.cpp	c16fc93a8dc99b13
 136	1379	7397615951708108	CMakeFiles/CourseWork.dir/SignIn.cpp.obj	a9167e70ef161367
+395	446	7396705169512614	CourseWork_autogen/EWIEGA46WW/qrc_settings_icon.cpp	c16fc93a8dc99b13
+144	2250	7397615960358096	CMakeFiles/CourseWork.dir/Settings.cpp.obj	36e6d9f24c28c6ce
 454	561	7396705170578252	CMakeFiles/CourseWork.dir/icons.rc.res	78a3a45d5d80487e
-539	629	7396705171332779	CMakeFiles/CourseWork.dir/CourseWork_autogen/EWIEGA46WW/qrc_settings_icon.cpp.obj	7f90ccbc28287139
 132	3004	7397615967887941	CMakeFiles/CourseWork.dir/mainwindow.cpp.obj	190f027e26c7cd1c
 405	951	7397234137741104	CMakeFiles/CourseWork.dir/PersonEducation.cpp.obj	935bad1ab044f739
 312	2248	7397437364760935	CMakeFiles/CourseWork.dir/CourseWork_autogen/mocs_compilation.cpp.obj	1966fb1a6393db71
@@ -24,3 +20,29 @@
 383	2048	7397338690423077	CMakeFiles/CourseWork.dir/RandomUser.cpp.obj	b65755ee0c214bc3
 146	1929	7397615957178101	CMakeFiles/CourseWork.dir/Favourites.cpp.obj	7eb8db66a2f94968
 3004	3108	7397615968862612	CourseWork.exe	305e9845d76284d2
+13	476	7403392637277631	CourseWork_autogen/timestamp	472d4d5bcffe80eb
+13	476	7403392637277631	CourseWork_autogen/mocs_compilation.cpp	472d4d5bcffe80eb
+13	476	7403392637277631	C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CourseWork_autogen/timestamp	472d4d5bcffe80eb
+13	476	7403392637277631	C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CourseWork_autogen/mocs_compilation.cpp	472d4d5bcffe80eb
+476	523	7403392638030391	CourseWork_autogen/EWIEGA46WW/qrc_icons.cpp	51ccb27e8e75ea95
+476	523	7403392638030391	C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CourseWork_autogen/EWIEGA46WW/qrc_icons.cpp	51ccb27e8e75ea95
+530	624	7403392638963112	CMakeFiles/CourseWork.dir/icons.rc.res	153909faa86f6895
+594	656	7403392639358226	CMakeFiles/CourseWork.dir/TypeRelationship.cpp.obj	80638968d05be5d5
+614	693	7403392639740267	CMakeFiles/CourseWork.dir/CourseWork_autogen/EWIEGA46WW/qrc_icons.cpp.obj	9f097e3d2446e5d9
+575	1518	7403392647961452	CMakeFiles/CourseWork.dir/User.cpp.obj	7cc4456836b08750
+567	1558	7403392648237597	CMakeFiles/CourseWork.dir/PersonEducation.cpp.obj	844aa8cb619d499f
+570	1568	7403392648469589	CMakeFiles/CourseWork.dir/UniversityInfo.cpp.obj	b0c62186ca697c6a
+586	1582	7403392648620041	CMakeFiles/CourseWork.dir/LoginData.cpp.obj	54ff70a9e7c9656a
+598	1590	7403392648687930	CMakeFiles/CourseWork.dir/PersonInterests.cpp.obj	6528478a9821ca5
+573	1620	7403392648983793	CMakeFiles/CourseWork.dir/PersonInfo.cpp.obj	61931471ba06c633
+579	2258	7403392655367055	CMakeFiles/CourseWork.dir/SignIn.cpp.obj	9c60ac3578ef3314
+591	2471	7403392657461063	CMakeFiles/CourseWork.dir/RandomUser.cpp.obj	e4e914470b8d844
+611	2498	7403392657751386	CMakeFiles/CourseWork.dir/JsonFiles.cpp.obj	fd9b3cd757df803a
+525	2671	7403392659517893	CMakeFiles/CourseWork.dir/main.cpp.obj	51ff1e32d3ff6baa
+601	2786	7403392660617030	CMakeFiles/CourseWork.dir/ViewRandUser.cpp.obj	eab3167eccae7bc8
+582	2789	7403392660651453	CMakeFiles/CourseWork.dir/SignUp.cpp.obj	9d193122da8e069e
+523	2805	7403392660849077	CMakeFiles/CourseWork.dir/CourseWork_autogen/mocs_compilation.cpp.obj	b138f90a18eeb3fe
+608	2903	7403392661801307	CMakeFiles/CourseWork.dir/Favourites.cpp.obj	714af834024f08a2
+605	3229	7403392665061740	CMakeFiles/CourseWork.dir/Settings.cpp.obj	47183b1856ebfe0c
+527	3897	7403392671706322	CMakeFiles/CourseWork.dir/mainwindow.cpp.obj	9f2efbf5db78f6cf
+3897	4006	7403392672745195	CourseWork.exe	9c70d319e5912f83

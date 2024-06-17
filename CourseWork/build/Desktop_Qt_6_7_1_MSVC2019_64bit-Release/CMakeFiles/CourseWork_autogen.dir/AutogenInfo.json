@@ -1,16 +1,16 @@
 {
-	"BUILD_DIR" : "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CourseWork_autogen",
-	"CMAKE_BINARY_DIR" : "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release",
-	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release",
-	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork",
+	"BUILD_DIR" : "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CourseWork_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork",
 	"CMAKE_EXECUTABLE" : "C:/Qt/Tools/CMake_64/bin/cmake.exe",
 	"CMAKE_LIST_FILES" : 
 	[
-		"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/CMakeLists.txt",
-		"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/.qtc/package-manager/auto-setup.cmake",
+		"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/CMakeLists.txt",
+		"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/.qtc/package-manager/auto-setup.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeSystem.cmake.in",
-		"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CMakeFiles/3.27.7/CMakeSystem.cmake",
+		"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CMakeFiles/3.27.7/CMakeSystem.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeNinjaFindMake.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake",
@@ -61,7 +61,7 @@
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeFindBinUtils.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeCXXCompiler.cmake.in",
-		"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake",
+		"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake",
@@ -76,7 +76,7 @@
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeDetermineRCCompiler.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeRCCompiler.cmake.in",
-		"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CMakeFiles/3.27.7/CMakeRCCompiler.cmake",
+		"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CMakeFiles/3.27.7/CMakeRCCompiler.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeRCInformation.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeTestRCCompiler.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake",
@@ -91,7 +91,7 @@
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeDetermineCompileFeatures.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Internal/FeatureTesting.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeCXXCompiler.cmake.in",
-		"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake",
+		"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake",
 		"C:/Qt/6.7.1/msvc2019_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
 		"C:/Qt/6.7.1/msvc2019_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
 		"C:/Qt/6.7.1/msvc2019_64/lib/cmake/Qt6/Qt6Config.cmake",
@@ -328,113 +328,113 @@
 		"C:/Qt/6.7.1/msvc2019_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginTargets-relwithdebinfo.cmake",
 		"C:/Qt/6.7.1/msvc2019_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginAdditionalTargetInfo.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/GNUInstallDirs.cmake",
-		"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/icons.qrc"
+		"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/icons.qrc"
 	],
-	"CMAKE_SOURCE_DIR" : "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork",
-	"DEP_FILE" : "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CourseWork_autogen/deps",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork",
+	"DEP_FILE" : "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CourseWork_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "CourseWork_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/Favourites.h",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/Favourites.h",
 			"MU",
 			"EWIEGA46WW/moc_Favourites.cpp",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/FileNames.h",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/FileNames.h",
 			"MU",
 			"EWIEGA46WW/moc_FileNames.cpp",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/JsonFiles.h",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/JsonFiles.h",
 			"MU",
 			"EWIEGA46WW/moc_JsonFiles.cpp",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/LoginData.h",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/LoginData.h",
 			"MU",
 			"EWIEGA46WW/moc_LoginData.cpp",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/PersonEducation.h",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/PersonEducation.h",
 			"MU",
 			"EWIEGA46WW/moc_PersonEducation.cpp",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/PersonInfo.h",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/PersonInfo.h",
 			"MU",
 			"EWIEGA46WW/moc_PersonInfo.cpp",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/PersonInterests.h",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/PersonInterests.h",
 			"MU",
 			"EWIEGA46WW/moc_PersonInterests.cpp",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/RandomUser.h",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/RandomUser.h",
 			"MU",
 			"EWIEGA46WW/moc_RandomUser.cpp",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/Settings.h",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/Settings.h",
 			"MU",
 			"EWIEGA46WW/moc_Settings.cpp",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/SignIn.h",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/SignIn.h",
 			"MU",
 			"EWIEGA46WW/moc_SignIn.cpp",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/SignUp.h",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/SignUp.h",
 			"MU",
 			"EWIEGA46WW/moc_SignUp.cpp",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/TypeRelationship.h",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/TypeRelationship.h",
 			"MU",
 			"EWIEGA46WW/moc_TypeRelationship.cpp",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/UniversityInfo.h",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/UniversityInfo.h",
 			"MU",
 			"EWIEGA46WW/moc_UniversityInfo.cpp",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/User.h",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/User.h",
 			"MU",
 			"EWIEGA46WW/moc_User.cpp",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/ViewRandUser.h",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/ViewRandUser.h",
 			"MU",
 			"EWIEGA46WW/moc_ViewRandUser.cpp",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/mainwindow.h",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CourseWork_autogen/include",
-	"MOC_COMPILATION_FILE" : "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CourseWork_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CourseWork_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CourseWork_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"QT_CORE_LIB",
@@ -480,91 +480,91 @@
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 14,
-	"PARSE_CACHE_FILE" : "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CMakeFiles/CourseWork_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CMakeFiles/CourseWork_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "C:/Qt/6.7.1/msvc2019_64/./bin/moc.exe",
 	"QT_UIC_EXECUTABLE" : "C:/Qt/6.7.1/msvc2019_64/./bin/uic.exe",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 7,
-	"SETTINGS_FILE" : "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CMakeFiles/CourseWork_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CMakeFiles/CourseWork_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/Favourites.cpp",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/Favourites.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/JsonFiles.cpp",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/JsonFiles.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/LoginData.cpp",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/LoginData.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/PersonEducation.cpp",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/PersonEducation.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/PersonInfo.cpp",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/PersonInfo.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/PersonInterests.cpp",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/PersonInterests.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/RandomUser.cpp",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/RandomUser.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/Settings.cpp",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/Settings.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/SignIn.cpp",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/SignIn.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/SignUp.cpp",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/SignUp.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/TypeRelationship.cpp",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/TypeRelationship.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/UniversityInfo.cpp",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/UniversityInfo.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/User.cpp",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/User.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/ViewRandUser.cpp",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/ViewRandUser.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/main.cpp",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/main.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/mainwindow.cpp",
+			"C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/mainwindow.cpp",
 			"MU",
 			null
 		]

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork
+# Install script for directory: C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -33,7 +33,7 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CourseWork.exe")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CourseWork.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -44,5 +44,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

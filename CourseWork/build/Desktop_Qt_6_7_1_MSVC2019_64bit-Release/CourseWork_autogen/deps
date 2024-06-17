@@ -1,5 +1,10 @@
 CourseWork_autogen/timestamp: \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/QDir \
+	C:/Qt/6.7.1/msvc2019_64/include/QtCore/QFile \
+	C:/Qt/6.7.1/msvc2019_64/include/QtCore/QJsonArray \
+	C:/Qt/6.7.1/msvc2019_64/include/QtCore/QJsonDocument \
+	C:/Qt/6.7.1/msvc2019_64/include/QtCore/QJsonObject \
+	C:/Qt/6.7.1/msvc2019_64/include/QtCore/QJsonValue \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/QStandardPaths \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/QString \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/q20functional.h \
@@ -21,6 +26,8 @@ CourseWork_autogen/timestamp: \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qbytearraylist.h \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qbytearrayview.h \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qcalendar.h \
+	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qcborcommon.h \
+	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qcborvalue.h \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qchar.h \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qcompare.h \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qcompare_impl.h \
@@ -56,6 +63,10 @@ CourseWork_autogen/timestamp: \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qiodevicebase.h \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qiterable.h \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qiterator.h \
+	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qjsonarray.h \
+	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qjsondocument.h \
+	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qjsonobject.h \
+	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qjsonvalue.h \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qlatin1stringview.h \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qline.h \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qlist.h \
@@ -80,6 +91,7 @@ CourseWork_autogen/timestamp: \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qprocessordetection.h \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qrect.h \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qrefcount.h \
+	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qregularexpression.h \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qscopedpointer.h \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qscopeguard.h \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qset.h \
@@ -123,7 +135,9 @@ CourseWork_autogen/timestamp: \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qtversionchecks.h \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qtypeinfo.h \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qtypes.h \
+	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qurl.h \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qutf8stringview.h \
+	C:/Qt/6.7.1/msvc2019_64/include/QtCore/quuid.h \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qvariant.h \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qvarlengtharray.h \
 	C:/Qt/6.7.1/msvc2019_64/include/QtCore/qversiontagging.h \
@@ -405,45 +419,48 @@ CourseWork_autogen/timestamp: \
 	C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake \
-	C:/Users/Ivan/Downloads/CourseWork/CMakeLists.txt \
-	C:/Users/Ivan/Downloads/CourseWork/Favourites.cpp \
-	C:/Users/Ivan/Downloads/CourseWork/Favourites.h \
-	C:/Users/Ivan/Downloads/CourseWork/LoginData.cpp \
-	C:/Users/Ivan/Downloads/CourseWork/LoginData.h \
-	C:/Users/Ivan/Downloads/CourseWork/PersonEducation.cpp \
-	C:/Users/Ivan/Downloads/CourseWork/PersonEducation.h \
-	C:/Users/Ivan/Downloads/CourseWork/PersonInfo.cpp \
-	C:/Users/Ivan/Downloads/CourseWork/PersonInfo.h \
-	C:/Users/Ivan/Downloads/CourseWork/PersonInterests.cpp \
-	C:/Users/Ivan/Downloads/CourseWork/PersonInterests.h \
-	C:/Users/Ivan/Downloads/CourseWork/RandomUser.cpp \
-	C:/Users/Ivan/Downloads/CourseWork/RandomUser.h \
-	C:/Users/Ivan/Downloads/CourseWork/Settings.cpp \
-	C:/Users/Ivan/Downloads/CourseWork/Settings.h \
-	C:/Users/Ivan/Downloads/CourseWork/SignIn.cpp \
-	C:/Users/Ivan/Downloads/CourseWork/SignIn.h \
-	C:/Users/Ivan/Downloads/CourseWork/SignUp.cpp \
-	C:/Users/Ivan/Downloads/CourseWork/SignUp.h \
-	C:/Users/Ivan/Downloads/CourseWork/TypeRelationship.cpp \
-	C:/Users/Ivan/Downloads/CourseWork/TypeRelationship.h \
-	C:/Users/Ivan/Downloads/CourseWork/UniversityInfo.cpp \
-	C:/Users/Ivan/Downloads/CourseWork/UniversityInfo.h \
-	C:/Users/Ivan/Downloads/CourseWork/User.cpp \
-	C:/Users/Ivan/Downloads/CourseWork/User.h \
-	C:/Users/Ivan/Downloads/CourseWork/ViewRandUser.cpp \
-	C:/Users/Ivan/Downloads/CourseWork/ViewRandUser.h \
-	C:/Users/Ivan/Downloads/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/.qtc/package-manager/auto-setup.cmake \
-	C:/Users/Ivan/Downloads/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake \
-	C:/Users/Ivan/Downloads/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CMakeFiles/3.27.7/CMakeRCCompiler.cmake \
-	C:/Users/Ivan/Downloads/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CMakeFiles/3.27.7/CMakeSystem.cmake \
-	C:/Users/Ivan/Downloads/CourseWork/main.cpp \
-	C:/Users/Ivan/Downloads/CourseWork/mainwindow.cpp \
-	C:/Users/Ivan/Downloads/CourseWork/mainwindow.h \
-	C:/Users/Ivan/Downloads/CourseWork/settings_icon.qrc \
-	C:/Users/Ivan/Downloads/CourseWork/Favourites.ui \
-	C:/Users/Ivan/Downloads/CourseWork/Settings.ui \
-	C:/Users/Ivan/Downloads/CourseWork/SignIn.ui \
-	C:/Users/Ivan/Downloads/CourseWork/SignUp.ui \
-	C:/Users/Ivan/Downloads/CourseWork/ViewRandUser.ui \
-	C:/Users/Ivan/Downloads/CourseWork/mainwindow.ui \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/CMakeLists.txt \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/Favourites.cpp \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/Favourites.h \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/FileNames.h \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/JsonFiles.cpp \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/JsonFiles.h \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/LoginData.cpp \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/LoginData.h \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/PersonEducation.cpp \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/PersonEducation.h \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/PersonInfo.cpp \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/PersonInfo.h \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/PersonInterests.cpp \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/PersonInterests.h \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/RandomUser.cpp \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/RandomUser.h \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/Settings.cpp \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/Settings.h \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/SignIn.cpp \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/SignIn.h \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/SignUp.cpp \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/SignUp.h \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/TypeRelationship.cpp \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/TypeRelationship.h \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/UniversityInfo.cpp \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/UniversityInfo.h \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/User.cpp \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/User.h \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/ViewRandUser.cpp \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/ViewRandUser.h \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/.qtc/package-manager/auto-setup.cmake \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CMakeFiles/3.27.7/CMakeRCCompiler.cmake \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CMakeFiles/3.27.7/CMakeSystem.cmake \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/icons.qrc \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/main.cpp \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/mainwindow.cpp \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/mainwindow.h \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/Favourites.ui \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/Settings.ui \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/SignIn.ui \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/SignUp.ui \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/ViewRandUser.ui \
+	C:/Users/Ivan/Documents/My/Qt\ projects/Dating\ is\ easy/Dating/CourseWork/mainwindow.ui \
 	C:/Qt/Tools/CMake_64/bin/cmake.exe

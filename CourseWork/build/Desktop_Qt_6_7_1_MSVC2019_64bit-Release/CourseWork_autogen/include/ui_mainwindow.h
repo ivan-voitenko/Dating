@@ -168,7 +168,7 @@ public:
         widget->setObjectName("widget");
         verticalLayoutWidget = new QWidget(widget);
         verticalLayoutWidget->setObjectName("verticalLayoutWidget");
-        verticalLayoutWidget->setGeometry(QRect(40, 10, 211, 251));
+        verticalLayoutWidget->setGeometry(QRect(40, 0, 201, 271));
         verticalLayout_2 = new QVBoxLayout(verticalLayoutWidget);
         verticalLayout_2->setObjectName("verticalLayout_2");
         verticalLayout_2->setContentsMargins(0, 0, 0, 0);
@@ -185,11 +185,12 @@ public:
 
         user_photo = new QLabel(verticalLayoutWidget);
         user_photo->setObjectName("user_photo");
-        QSizePolicy sizePolicy(QSizePolicy::Policy::Expanding, QSizePolicy::Policy::Expanding);
+        QSizePolicy sizePolicy(QSizePolicy::Policy::Fixed, QSizePolicy::Policy::Fixed);
         sizePolicy.setHorizontalStretch(0);
         sizePolicy.setVerticalStretch(0);
         sizePolicy.setHeightForWidth(user_photo->sizePolicy().hasHeightForWidth());
         user_photo->setSizePolicy(sizePolicy);
+        user_photo->setMaximumSize(QSize(220, 340));
 
         verticalLayout_2->addWidget(user_photo);
 
@@ -276,8 +277,11 @@ public:
         horizontalLayout_3->setObjectName("horizontalLayout_3");
         rand_user_photo1 = new QLabel(frame);
         rand_user_photo1->setObjectName("rand_user_photo1");
-        sizePolicy.setHeightForWidth(rand_user_photo1->sizePolicy().hasHeightForWidth());
-        rand_user_photo1->setSizePolicy(sizePolicy);
+        QSizePolicy sizePolicy1(QSizePolicy::Policy::Expanding, QSizePolicy::Policy::Expanding);
+        sizePolicy1.setHorizontalStretch(0);
+        sizePolicy1.setVerticalStretch(0);
+        sizePolicy1.setHeightForWidth(rand_user_photo1->sizePolicy().hasHeightForWidth());
+        rand_user_photo1->setSizePolicy(sizePolicy1);
 
         horizontalLayout_3->addWidget(rand_user_photo1);
 
@@ -322,8 +326,8 @@ public:
         horizontalLayout_4->setObjectName("horizontalLayout_4");
         rand_user_photo1_2 = new QLabel(frame);
         rand_user_photo1_2->setObjectName("rand_user_photo1_2");
-        sizePolicy.setHeightForWidth(rand_user_photo1_2->sizePolicy().hasHeightForWidth());
-        rand_user_photo1_2->setSizePolicy(sizePolicy);
+        sizePolicy1.setHeightForWidth(rand_user_photo1_2->sizePolicy().hasHeightForWidth());
+        rand_user_photo1_2->setSizePolicy(sizePolicy1);
 
         horizontalLayout_4->addWidget(rand_user_photo1_2);
 
@@ -365,8 +369,8 @@ public:
         horizontalLayout_6->setObjectName("horizontalLayout_6");
         rand_user_photo1_4 = new QLabel(frame);
         rand_user_photo1_4->setObjectName("rand_user_photo1_4");
-        sizePolicy.setHeightForWidth(rand_user_photo1_4->sizePolicy().hasHeightForWidth());
-        rand_user_photo1_4->setSizePolicy(sizePolicy);
+        sizePolicy1.setHeightForWidth(rand_user_photo1_4->sizePolicy().hasHeightForWidth());
+        rand_user_photo1_4->setSizePolicy(sizePolicy1);
 
         horizontalLayout_6->addWidget(rand_user_photo1_4);
 
@@ -408,8 +412,8 @@ public:
         horizontalLayout_7->setObjectName("horizontalLayout_7");
         rand_user_photo1_5 = new QLabel(frame);
         rand_user_photo1_5->setObjectName("rand_user_photo1_5");
-        sizePolicy.setHeightForWidth(rand_user_photo1_5->sizePolicy().hasHeightForWidth());
-        rand_user_photo1_5->setSizePolicy(sizePolicy);
+        sizePolicy1.setHeightForWidth(rand_user_photo1_5->sizePolicy().hasHeightForWidth());
+        rand_user_photo1_5->setSizePolicy(sizePolicy1);
 
         horizontalLayout_7->addWidget(rand_user_photo1_5);
 
@@ -451,8 +455,8 @@ public:
         horizontalLayout_8->setObjectName("horizontalLayout_8");
         rand_user_photo1_6 = new QLabel(frame);
         rand_user_photo1_6->setObjectName("rand_user_photo1_6");
-        sizePolicy.setHeightForWidth(rand_user_photo1_6->sizePolicy().hasHeightForWidth());
-        rand_user_photo1_6->setSizePolicy(sizePolicy);
+        sizePolicy1.setHeightForWidth(rand_user_photo1_6->sizePolicy().hasHeightForWidth());
+        rand_user_photo1_6->setSizePolicy(sizePolicy1);
 
         horizontalLayout_8->addWidget(rand_user_photo1_6);
 
@@ -494,8 +498,8 @@ public:
         horizontalLayout_9->setObjectName("horizontalLayout_9");
         rand_user_photo1_7 = new QLabel(frame);
         rand_user_photo1_7->setObjectName("rand_user_photo1_7");
-        sizePolicy.setHeightForWidth(rand_user_photo1_7->sizePolicy().hasHeightForWidth());
-        rand_user_photo1_7->setSizePolicy(sizePolicy);
+        sizePolicy1.setHeightForWidth(rand_user_photo1_7->sizePolicy().hasHeightForWidth());
+        rand_user_photo1_7->setSizePolicy(sizePolicy1);
 
         horizontalLayout_9->addWidget(rand_user_photo1_7);
 
@@ -537,8 +541,8 @@ public:
         horizontalLayout_10->setObjectName("horizontalLayout_10");
         rand_user_photo1_8 = new QLabel(frame);
         rand_user_photo1_8->setObjectName("rand_user_photo1_8");
-        sizePolicy.setHeightForWidth(rand_user_photo1_8->sizePolicy().hasHeightForWidth());
-        rand_user_photo1_8->setSizePolicy(sizePolicy);
+        sizePolicy1.setHeightForWidth(rand_user_photo1_8->sizePolicy().hasHeightForWidth());
+        rand_user_photo1_8->setSizePolicy(sizePolicy1);
 
         horizontalLayout_10->addWidget(rand_user_photo1_8);
 
@@ -580,8 +584,8 @@ public:
         horizontalLayout_11->setObjectName("horizontalLayout_11");
         rand_user_photo1_9 = new QLabel(frame);
         rand_user_photo1_9->setObjectName("rand_user_photo1_9");
-        sizePolicy.setHeightForWidth(rand_user_photo1_9->sizePolicy().hasHeightForWidth());
-        rand_user_photo1_9->setSizePolicy(sizePolicy);
+        sizePolicy1.setHeightForWidth(rand_user_photo1_9->sizePolicy().hasHeightForWidth());
+        rand_user_photo1_9->setSizePolicy(sizePolicy1);
 
         horizontalLayout_11->addWidget(rand_user_photo1_9);
 
@@ -623,8 +627,8 @@ public:
         horizontalLayout_12->setObjectName("horizontalLayout_12");
         rand_user_photo1_10 = new QLabel(frame);
         rand_user_photo1_10->setObjectName("rand_user_photo1_10");
-        sizePolicy.setHeightForWidth(rand_user_photo1_10->sizePolicy().hasHeightForWidth());
-        rand_user_photo1_10->setSizePolicy(sizePolicy);
+        sizePolicy1.setHeightForWidth(rand_user_photo1_10->sizePolicy().hasHeightForWidth());
+        rand_user_photo1_10->setSizePolicy(sizePolicy1);
 
         horizontalLayout_12->addWidget(rand_user_photo1_10);
 
@@ -666,8 +670,8 @@ public:
         horizontalLayout_13->setObjectName("horizontalLayout_13");
         rand_user_photo1_11 = new QLabel(frame);
         rand_user_photo1_11->setObjectName("rand_user_photo1_11");
-        sizePolicy.setHeightForWidth(rand_user_photo1_11->sizePolicy().hasHeightForWidth());
-        rand_user_photo1_11->setSizePolicy(sizePolicy);
+        sizePolicy1.setHeightForWidth(rand_user_photo1_11->sizePolicy().hasHeightForWidth());
+        rand_user_photo1_11->setSizePolicy(sizePolicy1);
 
         horizontalLayout_13->addWidget(rand_user_photo1_11);
 
@@ -709,8 +713,8 @@ public:
         horizontalLayout_16->setObjectName("horizontalLayout_16");
         rand_user_photo1_14 = new QLabel(frame);
         rand_user_photo1_14->setObjectName("rand_user_photo1_14");
-        sizePolicy.setHeightForWidth(rand_user_photo1_14->sizePolicy().hasHeightForWidth());
-        rand_user_photo1_14->setSizePolicy(sizePolicy);
+        sizePolicy1.setHeightForWidth(rand_user_photo1_14->sizePolicy().hasHeightForWidth());
+        rand_user_photo1_14->setSizePolicy(sizePolicy1);
 
         horizontalLayout_16->addWidget(rand_user_photo1_14);
 
@@ -752,8 +756,8 @@ public:
         horizontalLayout_17->setObjectName("horizontalLayout_17");
         rand_user_photo1_15 = new QLabel(frame);
         rand_user_photo1_15->setObjectName("rand_user_photo1_15");
-        sizePolicy.setHeightForWidth(rand_user_photo1_15->sizePolicy().hasHeightForWidth());
-        rand_user_photo1_15->setSizePolicy(sizePolicy);
+        sizePolicy1.setHeightForWidth(rand_user_photo1_15->sizePolicy().hasHeightForWidth());
+        rand_user_photo1_15->setSizePolicy(sizePolicy1);
 
         horizontalLayout_17->addWidget(rand_user_photo1_15);
 
