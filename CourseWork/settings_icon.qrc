@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/">
+        <file>build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/img/heart_icon.png</file>
+        <file>build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/img/import_image.png</file>
+        <file>build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/img/settings_icon.png</file>
+    </qresource>
+</RCC>

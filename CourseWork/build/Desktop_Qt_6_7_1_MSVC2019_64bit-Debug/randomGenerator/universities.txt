@@ -1,0 +1,40 @@
+Harvard University
+Stanford University
+Massachusetts Institute of Technology (MIT)
+University of Cambridge
+University of Oxford
+California Institute of Technology (Caltech)
+University of Chicago
+Princeton University
+Yale University
+Columbia University
+University of Pennsylvania
+University of California, Berkeley (UC Berkeley)
+University of California, Los Angeles (UCLA)
+University College London (UCL)
+Imperial College London
+University of Edinburgh
+University of Michigan
+Johns Hopkins University
+University of Toronto
+Duke University
+Northwestern University
+University of Sydney
+University of Melbourne
+University of British Columbia
+New York University (NYU)
+University of California, San Diego (UCSD)
+University of California, San Francisco (UCSF)
+University of Texas at Austin
+Cornell University
+University of Washington
+University of Wisconsin-Madison
+University of Manchester
+University of Warwick
+London School of Economics and Political Science (LSE)
+University of Illinois at Urbana-Champaign
+University of Southern California (USC)
+Carnegie Mellon University
+University of Queensland
+University of Amsterdam
+National University of Singapore (NUS)

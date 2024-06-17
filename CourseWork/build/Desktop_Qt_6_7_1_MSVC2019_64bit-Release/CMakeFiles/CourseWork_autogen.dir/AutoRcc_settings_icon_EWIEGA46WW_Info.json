@@ -1,0 +1,24 @@
+{
+	"BUILD_DIR" : "C:/Users/Ivan/Downloads/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CourseWork_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Ivan/Downloads/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Ivan/Downloads/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Ivan/Downloads/CourseWork",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Ivan/Downloads/CourseWork",
+	"INCLUDE_DIR" : "C:/Users/Ivan/Downloads/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CourseWork_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/Ivan/Downloads/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/img/heart_icon.png",
+		"C:/Users/Ivan/Downloads/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/img/import_image.png",
+		"C:/Users/Ivan/Downloads/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/img/settings_icon.png"
+	],
+	"LOCK_FILE" : "C:/Users/Ivan/Downloads/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CMakeFiles/CourseWork_autogen.dir/AutoRcc_settings_icon_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "settings_icon" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_settings_icon.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.1/msvc2019_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/Ivan/Downloads/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/CMakeFiles/CourseWork_autogen.dir/AutoRcc_settings_icon_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/Ivan/Downloads/CourseWork/settings_icon.qrc",
+	"VERBOSITY" : 0
+}

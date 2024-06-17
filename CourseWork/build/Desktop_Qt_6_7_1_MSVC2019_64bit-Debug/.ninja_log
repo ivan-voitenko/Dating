@@ -1,0 +1,51 @@
+# ninja log v5
+4	536	7403276216390716	CourseWork_autogen/timestamp	54b1a4f6f40987e4
+4	536	7403276216390716	CourseWork_autogen/mocs_compilation.cpp	54b1a4f6f40987e4
+4	536	7403276216390716	C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/CourseWork_autogen/timestamp	54b1a4f6f40987e4
+4	536	7403276216390716	C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/CourseWork_autogen/mocs_compilation.cpp	54b1a4f6f40987e4
+536	583	7403276217238925	CourseWork_autogen/EWIEGA46WW/qrc_icons.cpp	c159e9f8646dfaad
+536	583	7403276217238925	C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/CourseWork_autogen/EWIEGA46WW/qrc_icons.cpp	c159e9f8646dfaad
+590	652	7403276217899106	CMakeFiles/CourseWork.dir/icons.rc.res	601047bd2e93834a
+616	709	7403276218259795	CMakeFiles/CourseWork.dir/TypeRelationship.cpp.obj	f4c9a9b0beee0922
+635	744	7403276218841172	CMakeFiles/CourseWork.dir/CourseWork_autogen/EWIEGA46WW/qrc_icons.cpp.obj	44376df6114f1a1a
+596	1873	7403276230101275	CMakeFiles/CourseWork.dir/UniversityInfo.cpp.obj	41242faf8e0d1235
+593	1876	7403276230146445	CMakeFiles/CourseWork.dir/PersonEducation.cpp.obj	4d14d6f994396bd4
+610	1878	7403276230166550	CMakeFiles/CourseWork.dir/LoginData.cpp.obj	51d8f70ec2ba5713
+599	1878	7403276230176555	CMakeFiles/CourseWork.dir/PersonInfo.cpp.obj	ecb433d87837a769
+602	1900	7403276230397663	CMakeFiles/CourseWork.dir/User.cpp.obj	755f97be197877f
+619	1934	7403276230738413	CMakeFiles/CourseWork.dir/PersonInterests.cpp.obj	cf57402c456f238
+605	2640	7403276237789279	CMakeFiles/CourseWork.dir/SignIn.cpp.obj	f414ae608174c46c
+608	2797	7403276239355241	CMakeFiles/CourseWork.dir/SignUp.cpp.obj	88c692376b4f0f05
+613	2869	7403276240059134	CMakeFiles/CourseWork.dir/RandomUser.cpp.obj	141b9f8d9478ceea
+632	2888	7403276240285280	CMakeFiles/CourseWork.dir/JsonFiles.cpp.obj	2da7a0385bc19bbf
+586	2996	7403276241348501	CMakeFiles/CourseWork.dir/main.cpp.obj	568a200653b0df22
+622	3073	7403276242105468	CMakeFiles/CourseWork.dir/ViewRandUser.cpp.obj	6d7646e4ff95a24e
+628	3100	7403276242396116	CMakeFiles/CourseWork.dir/Favourites.cpp.obj	2db7adb86ac9f63d
+584	3101	7403276242416106	CMakeFiles/CourseWork.dir/CourseWork_autogen/mocs_compilation.cpp.obj	c1fa5871adb8b09e
+625	3224	7403276243644621	CMakeFiles/CourseWork.dir/Settings.cpp.obj	1795c4092de2fbbd
+588	3264	7403276244016249	CMakeFiles/CourseWork.dir/mainwindow.cpp.obj	4f4b5fc92baf09e5
+3264	3490	7403276246219298	CourseWork.exe	57d4f24e72513fd
+27	145	7403277688457626	CourseWork_autogen/timestamp	54b1a4f6f40987e4
+27	145	7403277688457626	CourseWork_autogen/mocs_compilation.cpp	54b1a4f6f40987e4
+27	145	7403277688457626	C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/CourseWork_autogen/timestamp	54b1a4f6f40987e4
+27	145	7403277688457626	C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/CourseWork_autogen/mocs_compilation.cpp	54b1a4f6f40987e4
+155	1630	7403277703284600	CMakeFiles/CourseWork.dir/SignIn.cpp.obj	f414ae608174c46c
+157	1824	7403277705221913	CMakeFiles/CourseWork.dir/SignUp.cpp.obj	88c692376b4f0f05
+160	2063	7403277707622820	CMakeFiles/CourseWork.dir/ViewRandUser.cpp.obj	6d7646e4ff95a24e
+166	2083	7403277707823100	CMakeFiles/CourseWork.dir/Favourites.cpp.obj	2db7adb86ac9f63d
+151	2227	7403277709253066	CMakeFiles/CourseWork.dir/mainwindow.cpp.obj	4f4b5fc92baf09e5
+163	2296	7403277709954872	CMakeFiles/CourseWork.dir/Settings.cpp.obj	1795c4092de2fbbd
+2296	2462	7403277711269056	CourseWork.exe	57d4f24e72513fd
+47	393	7403372521392725	CourseWork_autogen/timestamp	54b1a4f6f40987e4
+47	393	7403372521392725	CourseWork_autogen/mocs_compilation.cpp	54b1a4f6f40987e4
+47	393	7403372521392725	C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/CourseWork_autogen/timestamp	54b1a4f6f40987e4
+47	393	7403372521392725	C:/Users/Ivan/Documents/My/Qt projects/Dating is easy/CourseWork/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/CourseWork_autogen/mocs_compilation.cpp	54b1a4f6f40987e4
+401	2728	7403372545065923	CMakeFiles/CourseWork.dir/SignIn.cpp.obj	f414ae608174c46c
+403	2855	7403372546339709	CMakeFiles/CourseWork.dir/SignUp.cpp.obj	88c692376b4f0f05
+396	3046	7403372548245680	CMakeFiles/CourseWork.dir/main.cpp.obj	568a200653b0df22
+406	3117	7403372548954637	CMakeFiles/CourseWork.dir/ViewRandUser.cpp.obj	6d7646e4ff95a24e
+393	3175	7403372549535559	CMakeFiles/CourseWork.dir/CourseWork_autogen/mocs_compilation.cpp.obj	c1fa5871adb8b09e
+413	3184	7403372549620709	CMakeFiles/CourseWork.dir/Favourites.cpp.obj	2db7adb86ac9f63d
+410	3272	7403372550478066	CMakeFiles/CourseWork.dir/Settings.cpp.obj	1795c4092de2fbbd
+399	3326	7403372550994603	CMakeFiles/CourseWork.dir/mainwindow.cpp.obj	4f4b5fc92baf09e5
+3326	3506	7403372552381434	CourseWork.exe	57d4f24e72513fd
